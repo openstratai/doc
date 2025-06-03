@@ -20,7 +20,7 @@ Openstrat 是一个专注金融美股的 AI 软件，通过智能任务系统帮
 
 ### 环境要求
 
-- **Node.js**: 16.x 或更高版本
+- **Node.js**: 20.x 或更高版本
 - **npm**: 7.x 或更高版本（或使用 yarn）
 - **Git**: 用于版本控制
 
@@ -199,7 +199,7 @@ git push origin feature/improve-docs
 
 ## 📞 联系我们
 
-- 📧 **邮箱**: docs@openstrat.ai
+- 📧 **邮箱**: support@openstrat.ai
 - 💬 **微信群**: 扫描官网二维码加入
 - 🐦 **Twitter**: [@OpenstratAI](https://twitter.com/OpenstratAI)
 
@@ -209,6 +209,6 @@ git push origin feature/improve-docs
 
 **💡 提示**: 这是文档网站的源码仓库。如果你想查看用户文档，请访问 [在线文档网站](https://docs.openstrat.ai)
 
-Made with ❤️ by Openstrat Team
+Made with ❤️ by Openstrat
 
 </div>
