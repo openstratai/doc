@@ -124,12 +124,12 @@ git push origin feature/improve-docs
 
 ### 部署配置
 
-| 配置项 | 值 |
-|--------|-----|
-| Framework preset | None / Static HTML |
-| Build command | 留空 |
-| Build output directory | `docs` |
-| Root directory | 留空 |
+| 配置项                 | 值                 |
+| ---------------------- | ------------------ |
+| Framework preset       | None / Static HTML |
+| Build command          | 留空               |
+| Build output directory | `docs`             |
+| Root directory         | 留空               |
 
 ### 预览部署
 
