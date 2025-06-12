@@ -20,8 +20,8 @@ Openstrat 是一个专注金融美股的 AI 软件，通过智能任务系统帮
 
 ### 环境要求
 
-- **Node.js**: 16.x 或更高版本
-- **npm**: 7.x 或更高版本（或使用 yarn）
+- **Node.js**: 18.x 或更高版本
+- **pnpm**: 7.x 或更高版本（或使用 yarn）
 - **Git**: 用于版本控制
 
 ### 快速开始
@@ -29,13 +29,13 @@ Openstrat 是一个专注金融美股的 AI 软件，通过智能任务系统帮
 ```bash
 # 1. 克隆仓库
 git clone https://github.com/openstratai/doc.git
-cd openstrat-docs
+cd docs
 
-# 2. 全局安装 docsify CLI
-npm install -g docsify-cli
+# 2. 安装依赖
+pnpm install
 
 # 3. 启动本地服务器
-docsify serve docs
+pnpm run server
 
 # 4. 打开浏览器访问
 # http://localhost:3000
