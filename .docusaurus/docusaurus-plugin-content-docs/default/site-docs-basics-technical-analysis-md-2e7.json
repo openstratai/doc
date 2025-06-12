@@ -1,0 +1,28 @@
+{
+  "id": "basics/technical-analysis",
+  "title": "什么是技术底部、技术顶部",
+  "description": "技术底部",
+  "source": "@site/docs/basics/technical-analysis.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/technical-analysis",
+  "permalink": "/docs/basics/technical-analysis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/basics/technical-analysis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "技术分析基础"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速开始",
+    "permalink": "/docs/basics/system-task"
+  },
+  "next": {
+    "title": "任务的创建",
+    "permalink": "/docs/tutorial/create"
+  }
+}

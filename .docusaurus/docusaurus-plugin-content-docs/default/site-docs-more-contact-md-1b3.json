@@ -1,0 +1,23 @@
+{
+  "id": "more/contact",
+  "title": "联系我们",
+  "description": "",
+  "source": "@site/docs/more/contact.md",
+  "sourceDirName": "more",
+  "slug": "/more/contact",
+  "permalink": "/docs/more/contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/more/contact.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "常见问题",
+    "permalink": "/docs/more/question"
+  }
+}

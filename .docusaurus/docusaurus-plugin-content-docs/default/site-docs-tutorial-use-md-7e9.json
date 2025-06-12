@@ -1,0 +1,27 @@
+{
+  "id": "tutorial/use",
+  "title": "任务的使用",
+  "description": "当您的任务创建成功后，系统就会开始自动追踪对应标的的数据波动情况。",
+  "source": "@site/docs/tutorial/use.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/use",
+  "permalink": "/docs/tutorial/use",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/use.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "任务的创建",
+    "permalink": "/docs/tutorial/create"
+  },
+  "next": {
+    "title": "任务的管理",
+    "permalink": "/docs/tutorial/manage"
+  }
+}

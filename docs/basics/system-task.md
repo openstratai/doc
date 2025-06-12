@@ -42,4 +42,4 @@ Openstrat 是一个专注金融美股的 AI 软件，而其中的任务系统是
 
 ---
 
-**下一步：** [了解技术底部和技术顶部](guide/technical-analysis.md)
+**下一步：** [了解技术底部和技术顶部](/docs/basics/technical-analysis)

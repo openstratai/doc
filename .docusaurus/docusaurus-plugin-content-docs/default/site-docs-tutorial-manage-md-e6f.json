@@ -1,0 +1,27 @@
+{
+  "id": "tutorial/manage",
+  "title": "任务的管理",
+  "description": "创建任务后，您可以对任务进行全面的管理操作，包括暂停、删除、编辑等功能，以满足不同场景下的使用需求。",
+  "source": "@site/docs/tutorial/manage.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/manage",
+  "permalink": "/docs/tutorial/manage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/manage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "任务的使用",
+    "permalink": "/docs/tutorial/use"
+  },
+  "next": {
+    "title": "更新记录",
+    "permalink": "/docs/more/log"
+  }
+}

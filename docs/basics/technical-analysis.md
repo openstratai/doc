@@ -57,4 +57,4 @@ sidebar_label: 技术分析基础 # 可顺便改在侧边栏的显示文字
 
 ---
 
-**下一步：** [学习如何创建任务](guide/create-task.md)
+**下一步：** [学习如何创建任务](/docs/tutorial/create)
