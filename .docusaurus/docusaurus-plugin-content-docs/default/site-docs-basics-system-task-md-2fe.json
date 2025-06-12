@@ -1,0 +1,28 @@
+{
+  "id": "basics/system-task",
+  "title": "什么是 Openstrat 的任务系统",
+  "description": "Openstrat 是一个专注金融美股的 AI 软件，而其中的任务系统是在常规的 AI 对话程序中，独立出来的可以执行指定类型任务的特殊系统。",
+  "source": "@site/docs/basics/system-task.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/system-task",
+  "permalink": "/docs/basics/system-task",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/basics/system-task.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "快速开始"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Openstrat 文档",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "技术分析基础",
+    "permalink": "/docs/basics/technical-analysis"
+  }
+}

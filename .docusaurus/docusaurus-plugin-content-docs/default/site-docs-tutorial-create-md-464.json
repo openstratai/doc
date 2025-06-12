@@ -1,0 +1,27 @@
+{
+  "id": "tutorial/create",
+  "title": "任务的创建",
+  "description": "Openstrat 目前版本提供两种创建任务的方式，您可以根据使用习惯选择最适合的方法。",
+  "source": "@site/docs/tutorial/create.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/create",
+  "permalink": "/docs/tutorial/create",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/create.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "技术分析基础",
+    "permalink": "/docs/basics/technical-analysis"
+  },
+  "next": {
+    "title": "任务的使用",
+    "permalink": "/docs/tutorial/use"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "basics/congratulations",
+              "path": "/docs/basics/congratulations"
+            },
+            {
+              "id": "basics/create-a-blog-post",
+              "path": "/docs/basics/create-a-blog-post"
+            },
+            {
+              "id": "basics/create-a-document",
+              "path": "/docs/basics/create-a-document"
+            },
+            {
+              "id": "basics/create-a-page",
+              "path": "/docs/basics/create-a-page"
+            },
+            {
+              "id": "basics/deploy-your-site",
+              "path": "/docs/basics/deploy-your-site"
+            },
+            {
+              "id": "basics/markdown-features",
+              "path": "/docs/basics/markdown-features"
+            },
+            {
+              "id": "basics/system-task",
+              "path": "/docs/basics/system-task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/technical-analysis",
+              "path": "/docs/basics/technical-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "more/contact",
+              "path": "/docs/more/contact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "more/log",
+              "path": "/docs/more/log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "more/question",
+              "path": "/docs/more/question",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/create",
+              "path": "/docs/tutorial/create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/manage",
+              "path": "/docs/tutorial/manage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/use",
+              "path": "/docs/tutorial/use",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
