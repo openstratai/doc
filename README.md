@@ -29,7 +29,7 @@ Openstrat 是一个专注金融美股的 AI 软件，通过智能任务系统帮
 ```bash
 # 1. 克隆仓库
 git clone https://github.com/openstratai/doc.git
-cd docs
+cd doc
 
 # 2. 安装依赖
 pnpm install
