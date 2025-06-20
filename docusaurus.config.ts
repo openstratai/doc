@@ -32,10 +32,21 @@ const config: Config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  // i18n: {
-  //   defaultLocale: "en",
-  //   locales: ["en"],
-  // },
+  i18n: {
+    defaultLocale: "zh",
+    locales: ["zh", "en"],
+    path: "i18n",
+    localeConfigs: {
+      zh: {
+        label: "中文",
+        direction: "ltr",
+      },
+      en: {
+        label: "English",
+        direction: "ltr",
+      },
+    },
+  },
 
   presets: [
     [
@@ -90,6 +101,10 @@ const config: Config = {
         {
           href: "https://github.com/openstratai/doc",
           label: "GitHub",
+          position: "right",
+        },
+        {
+          type: "localeDropdown",
           position: "right",
         },
       ],

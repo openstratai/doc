@@ -5,7 +5,7 @@
   "source": "@site/docs/basics/technical-analysis.md",
   "sourceDirName": "basics",
   "slug": "/basics/technical-analysis",
-  "permalink": "/docs/basics/technical-analysis",
+  "permalink": "/en/docs/basics/technical-analysis",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/basics/technical-analysis.md",
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "快速开始",
-    "permalink": "/docs/basics/system-task"
+    "title": "Quick Start",
+    "permalink": "/en/docs/basics/system-task"
   },
   "next": {
     "title": "任务的创建",
-    "permalink": "/docs/tutorial/create"
+    "permalink": "/en/docs/tutorial/create"
   }
 }
