@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial/use.md",
   "sourceDirName": "tutorial",
   "slug": "/tutorial/use",
-  "permalink": "/docs/tutorial/use",
+  "permalink": "/en/docs/tutorial/use",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/use.md",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "任务的创建",
-    "permalink": "/docs/tutorial/create"
+    "title": "Task Creation",
+    "permalink": "/en/docs/tutorial/create"
   },
   "next": {
-    "title": "任务的管理",
-    "permalink": "/docs/tutorial/manage"
+    "title": "Task Management",
+    "permalink": "/en/docs/tutorial/manage"
   }
 }

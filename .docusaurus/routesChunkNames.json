@@ -1,89 +1,108 @@
 {
-  "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
+  "/en/__docusaurus/debug-201": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/docs-0ec": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
     }
   },
-  "/docs-350": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
-  },
-  "/docs-4ed": {
-    "__comp": "a94703ab"
-  },
-  "/docs/basics/congratulations-f71": {
-    "__comp": "17896441",
-    "content": "a2fc4aba"
-  },
-  "/docs/basics/create-a-blog-post-5ad": {
-    "__comp": "17896441",
-    "content": "d6611a86"
-  },
-  "/docs/basics/create-a-document-6ef": {
-    "__comp": "17896441",
-    "content": "f1b926d5"
-  },
-  "/docs/basics/create-a-page-2b9": {
-    "__comp": "17896441",
-    "content": "5bb56833"
-  },
-  "/docs/basics/deploy-your-site-32b": {
-    "__comp": "17896441",
-    "content": "decb45e1"
-  },
-  "/docs/basics/markdown-features-ab4": {
-    "__comp": "17896441",
-    "content": "55715d7b"
-  },
-  "/docs/basics/system-task-ba8": {
-    "__comp": "17896441",
-    "content": "2fe23dc6"
-  },
-  "/docs/basics/technical-analysis-95b": {
-    "__comp": "17896441",
-    "content": "2e7cfd9e"
-  },
-  "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
-  },
-  "/docs/more/contact-dc8": {
-    "__comp": "17896441",
-    "content": "1b365e7a"
-  },
-  "/docs/more/log-871": {
-    "__comp": "17896441",
-    "content": "0e0d5e60"
-  },
-  "/docs/more/question-bfd": {
-    "__comp": "17896441",
-    "content": "97514fe1"
-  },
-  "/docs/tutorial/create-6b2": {
-    "__comp": "17896441",
-    "content": "4648af8e"
-  },
-  "/docs/tutorial/manage-d7e": {
-    "__comp": "17896441",
-    "content": "e6fdd4cb"
-  },
-  "/docs/tutorial/use-413": {
-    "__comp": "17896441",
-    "content": "7e93df90"
-  },
-  "/-e5f": {
-    "__comp": "1df93b7f",
+  "/en/__docusaurus/debug/config-326": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
+    }
+  },
+  "/en/__docusaurus/debug/content-b21": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
     },
-    "config": "5e9f5e1a"
+    "__props": "__props---en-docusaurus-debug-content-077-e31"
+  },
+  "/en/__docusaurus/debug/globalData-cfd": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
+    }
+  },
+  "/en/__docusaurus/debug/metadata-297": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
+    }
+  },
+  "/en/__docusaurus/debug/registry-7f4": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
+    }
+  },
+  "/en/__docusaurus/debug/routes-fdd": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---en-docusaurus-debugb-38-3b5"
+    }
+  },
+  "/en/markdown-page-63b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---en-markdown-pagea-74-161"
+    },
+    "content": "content---en-markdown-page-393-063"
+  },
+  "/en/docs-cb7": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---en-docsaba-971"
+    }
+  },
+  "/en/docs-d67": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---en-docs-0-ab-302"
+  },
+  "/en/docs-e43": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/en/docs/basics/system-task-2c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-basics-system-task-641-4ed"
+  },
+  "/en/docs/basics/technical-analysis-a6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-basics-technical-analysis-0-c-1-4d3"
+  },
+  "/en/docs/intro-6d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-intro-5-b-4-539"
+  },
+  "/en/docs/more/contact-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-more-contact-968-174"
+  },
+  "/en/docs/more/log-32f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-more-log-4-fa-345"
+  },
+  "/en/docs/more/question-29f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-more-question-75-f-361"
+  },
+  "/en/docs/tutorial/create-ccb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-tutorial-createecd-388"
+  },
+  "/en/docs/tutorial/manage-62c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-tutorial-manage-7-a-6-f2a"
+  },
+  "/en/docs/tutorial/use-70b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---en-docs-tutorial-usede-3-ee7"
+  },
+  "/en/-6c2": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---en-markdown-pagea-74-161"
+    },
+    "config": "config---en-5-e-9-55f"
   }
 }

@@ -29,11 +29,29 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
+  "i18n": {
+    "defaultLocale": "zh",
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "path": "i18n",
+    "localeConfigs": {
+      "zh": {
+        "label": "中文",
+        "direction": "ltr"
+      },
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      }
+    }
+  },
   "presets": [
     [
       "classic",
@@ -67,6 +85,12 @@ export default {
           "href": "https://github.com/openstratai/doc",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
@@ -299,14 +323,6 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "path": "i18n",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [

@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial/create.md",
   "sourceDirName": "tutorial",
   "slug": "/tutorial/create",
-  "permalink": "/docs/tutorial/create",
+  "permalink": "/en/docs/tutorial/create",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/create.md",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "技术分析基础",
-    "permalink": "/docs/basics/technical-analysis"
+    "title": "Basics of Technical Analysis",
+    "permalink": "/en/docs/basics/technical-analysis"
   },
   "next": {
     "title": "任务的使用",
-    "permalink": "/docs/tutorial/use"
+    "permalink": "/en/docs/tutorial/use"
   }
 }

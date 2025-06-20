@@ -5,7 +5,7 @@
   "source": "@site/docs/more/question.md",
   "sourceDirName": "more",
   "slug": "/more/question",
-  "permalink": "/docs/more/question",
+  "permalink": "/en/docs/more/question",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/more/question.md",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "更新记录",
-    "permalink": "/docs/more/log"
+    "title": "Changelog",
+    "permalink": "/en/docs/more/log"
   },
   "next": {
-    "title": "联系我们",
-    "permalink": "/docs/more/contact"
+    "title": "Contact Us",
+    "permalink": "/en/docs/more/contact"
   }
 }

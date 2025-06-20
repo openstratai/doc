@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.基础概念": {
+    "message": "Basic Concepts",
+    "description": "The label for category 基础概念 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.使用指南": {
+    "message": "User Guide",
+    "description": "The label for category 使用指南 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.更多信息": {
+    "message": "More Info",
+    "description": "The label for category 更多信息 in sidebar tutorialSidebar"
+  }
+}
